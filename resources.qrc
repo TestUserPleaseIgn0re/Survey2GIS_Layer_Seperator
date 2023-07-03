@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/layer_cleanup" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
